@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    cout<<"hello";
-
+    char name[11]="SN Simanto";
+    cout<<"My name is  = "<<name;
     getch();
 }
