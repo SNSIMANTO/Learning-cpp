@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1741367714 source:f:\profession\learning-cpp\distractor practice\main.cpp
+	<iostream>
+	"state.h"
+
+1741367987 f:\profession\learning-cpp\distractor practice\state.h
+	"state.h"
+
+1741368015 source:f:\profession\learning-cpp\distractor practice\state.cpp
+	"state.h"
+	<iostream>
+
