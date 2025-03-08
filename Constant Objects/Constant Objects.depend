@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1741409406 source:f:\profession\learning-cpp\constant objects\main.cpp
+	<iostream>
+	"state.h"
+
+1741410063 f:\profession\learning-cpp\constant objects\state.h
+	"state.h"
+
+1741410124 source:f:\profession\learning-cpp\constant objects\state.cpp
+	"state.h"
+	<iostream>
+
