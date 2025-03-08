@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1741407640 source:f:\profession\learning-cpp\selectionoperator\main.cpp
+	<iostream>
+	"state.h"
+
+1741407881 f:\profession\learning-cpp\selectionoperator\state.h
+	<iostream>
+	"state.h"
+
+1741407901 source:f:\profession\learning-cpp\selectionoperator\state.cpp
+	"state.h"
+
